@@ -1,0 +1,12 @@
+# Blender MTL File: 'SackTrench.blend'
+# Material Count: 1
+
+newmtl Sack
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.280441 0.237550 0.147824
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
