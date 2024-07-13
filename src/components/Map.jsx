@@ -3,7 +3,7 @@ import { RigidBody } from "@react-three/rapier";
 import { useEffect } from "react";
 
 export const Map = () => {
-    const map = useGLTF('models/map.glb')
+    const map = useGLTF('models/de_dust_2')
 
     useEffect(() => {
         map.scene.traverse((child) => {
@@ -20,4 +20,4 @@ export const Map = () => {
         </RigidBody>
     )
 }
-useGLTF.preload('models/map.glb')
+useGLTF.preload('models/de_dust_2')
